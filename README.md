@@ -69,7 +69,7 @@ A Power BI dashboard analyzing supply chain performance through a sustainability
 
 <p align="center">
   <a href="mailto:shafiyashaik9966@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[[www.linkedin.com/in/shaik-shafiya-749175285/](https://www.linkedin.com/in/shaik-shafiya-749175285/)](https://www.linkedin.com/in/shaik-shafiya-749175285/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shaik-shafiya-749175285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/shafiya9966v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 

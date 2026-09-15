@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shafiya 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Turning Data into Decisions</h3>
+<h3 align="center">Aspiring Data Scientist |Artificial Intelligence & Machine Learning Enthusiast | Turning Data into Decisions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Healthcare+%2B+Data+%3D+Impact;Always+learning%2C+always+building" alt="Typing SVG" />
